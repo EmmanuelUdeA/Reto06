@@ -8,6 +8,7 @@ package concesionario;
 /**
  *
  * @author emmanuel.bustamante
+ * Alejandro Becerra
  */
 public class Concesionario {
 
